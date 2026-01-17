@@ -1,8 +1,8 @@
 # Condense-Matter-Physics
    **Author:** Pragya Goyal  
    **Roll No.:** 2311127  
-   **Course:** Condense Matter Physics
-   **Instructor:** Prof. Joydeep Bhattacharjee
+   **Course:** Condense Matter Physics  
+   **Instructor:** Prof. Joydeep Bhattacharjee  
     
 ---
 
